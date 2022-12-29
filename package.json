@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/WilWadman/weatherAPI/issues"
   },
-  "homepage": "https://github.com/WilWadman/weatherAPI#readme"
+  "homepage": "https://github.com/WilWadman/weatherAPI#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
